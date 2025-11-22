@@ -1,9 +1,3 @@
-Below is a **fully polished, production-quality `README.md`** written specifically for GitHub.
-It includes everything: overview, screenshots placeholder, features, installation steps, usage guide, architecture, file format documentation, workflow tips, and contribution guidelines.
-
-You can copy-paste this directly into **`README.md`** in your GitHub repository.
-
----
 
 # 📘 KW To-Do List Editor
 
